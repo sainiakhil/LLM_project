@@ -29,6 +29,123 @@ from transformers import BitsAndBytesConfig
 from langchain import PromptTemplate, LLMChain
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
 ```
+## extracting text from pdf files
+```
+# Function to extract text from PDF file
+def extract_text_from_pdf(pdf_file):
+    text = ""
+    with fitz.open(pdf_file) as pdf:
+        for page_num in range(pdf.page_count):
+            page = pdf[page_num]
+            text += page.get_text()
+    return text
+
+# Function to remove figures, tables, and in-text citations from text
+def clean_text(text):
+    # Remove figures and tables
+    text = re.sub(r'\[[0-9]*\]', '', text)
+    text = re.sub(r'\[[a-z]*\]', '', text)
+
+    # Remove in-text citations (assuming citations are in the form of [Author, Year])
+    text = re.sub(r'\[\w+\,\s\d+\]', '', text)
+
+    return text
+
+# Function to tokenize text into sentences
+def tokenize_text(text):
+    sentences = sent_tokenize(text)
+    return sentences
+
+# Main function to process PDF files
+def process_pdf(pdf_file):
+    # Extract text from PDF
+    text = extract_text_from_pdf(pdf_file)
+
+    # Clean text
+    cleaned_text = clean_text(text)
+
+    # Tokenize text into sentences
+    sentences = tokenize_text(cleaned_text)
+
+    # Save clean text to a new file
+    with open(pdf_file.replace('.pdf', '_clean.txt'), 'w', encoding='utf-8') as file:
+        for sentence in sentences:
+            file.write(sentence + '\n')
+
+# Process each research paper PDF file
+pdf_files = os.listdir('/content/drive/MyDrive/Publications')
+
+for pdf_file in pdf_files:
+  file_path = os.path.join('/content/drive/MyDrive/Publications', pdf_file )
+  process_pdf(file_path)
+```
+## Preprocessing the text files
+```
+# Preprocessing the text files by removing stop words, stemming, and lemmatizing.
+# Removeing citations and references from the retrieved text.
+
+def preprocess_text(text):
+    # Convert text to lowercase
+    text = text.lower()
+
+    # Tokenize the text into words
+    words = word_tokenize(text)
+
+    # Remove stop words
+    stop_words = set(stopwords.words('english'))
+    words = [word for word in words if word not in stop_words]
+
+    # Initialize stemmer and lemmatizer
+    stemmer = PorterStemmer()
+    lemmatizer = WordNetLemmatizer()
+
+    # Apply stemming and lemmatization
+    stemmed_words = [stemmer.stem(word) for word in words]
+    lemmatized_words = [lemmatizer.lemmatize(word) for word in stemmed_words]
+
+    # Join the processed words back into a single string
+    processed_text = ' '.join(lemmatized_words)
+
+    return processed_text
+
+def remove_citations_and_references(text):
+    # Remove in-text citations (e.g., (Author, Year))
+    text = re.sub(r'\([A-Za-z]+,\s\d{4}\)', '', text)
+
+    # Remove references (e.g., [1], [2], [3])
+    text = re.sub(r'\[\d+\]', '', text)
+
+    return text
+
+def preprocess_and_clean_text_files(directory):
+    cleaned_texts = []
+
+    # Loop through each file in the specified directory
+    for filename in os.listdir(directory):
+        if filename.endswith(".txt"):
+            file_path = os.path.join(directory, filename)
+
+            # Read the contents of the file
+            with open(file_path, 'r', encoding='utf-8') as file:
+                text = file.read()
+
+            # Remove citations and references
+            text = remove_citations_and_references(text)
+
+            # Preprocess the text
+            preprocessed_text = preprocess_text(text)
+
+            # Append the preprocessed text to the list
+            cleaned_texts.append(preprocessed_text)
+
+    return cleaned_texts
+
+text_files_directory = "/content/drive/MyDrive/Publications/clean files"
+
+# Preprocess and clean text files
+cleaned_texts = preprocess_and_clean_text_files(text_files_directory)
+
+```
 
 
 # Creating splites
