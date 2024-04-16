@@ -1,0 +1,1888 @@
+Vocal patterns in infants with Autism Spectrum Disorder:
+Canonical babbling status and vocalization frequency
+Elena Patten, Ph.D.1, Katie Belardi, M.S.2, Grace T. Baranek, Ph.D.2, Linda R. Watson, Ed.D.
+2, Jeffrey D. Labban, Ph.D.1, and D. Kimbrough Oller, Ph.D.3
+1Univ.
+of North Carolina, Greensboro
+2Univ.
+of North Carolina, Chapel Hill
+3Univ.
+of Memphis, and Konrad Lorenz Institute for Evolution and Cognition Research,
+Klosterneuburg, Austria
+Abstract
+Canonical babbling is a critical milestone for speech development and is usually well in place by
+10 months.
+The possibility that infants with ASD show late onset of canonical babbling has so far
+eluded evaluation.
+Rate of vocalization or “volubility” has also been suggested as possibly
+aberrant in infants with ASD.
+We conducted a retrospective video study examining vocalizations
+of 37 infants at 9–12 and 15–18 months.
+Twenty-three of the 37 infants were later diagnosed with
+ASD and indeed produced low rates of canonical babbling and low volubility by comparison with
+the 14 typically developing infants.
+The study thus supports suggestions that very early vocal
+patterns may prove to be a useful component of early screening and diagnosis of ASD.
+Keywords
+canonical babbling; volubility; vocal patterns; early detection
+ASD and early vocal development
+Early intervention is critical for positive outcomes for children with Autism Spectrum
+Disorder (ASD).
+Early identification of atypical behaviors that manifest during infancy
+could significantly impact age of diagnosis and subsequent initiation of intervention.
+Currently, the minimum age at which the majority of children with ASD can be reliably
+diagnosed with relative stability is two years (e.g., Chawarska et al., 2009; Lord, 1995), but
+according to recent data from the Centers for Disease Control, many children are not
+Correspondence concerning this article should be addressed to: Elena Patten.
+University of North Carolina at Greensboro, 300
+Ferguson Building, P. O.
+Box 26170, Greensboro, NC 27402-6170. e_patten@uncg.edu.
+Elena Patten, UNC Greensboro, 300 Ferguson Building, Greensboro, NC 27412-6170
+Katie Belardi, UNC Chapel Hill, Bondurant Hall, CB#7190, Chapel Hill, NC 27599-7190
+Grace Baranek, UNC Chapel Hill, Bondurant Hall, CB #7122, Chapel Hill, NC 27599-7190
+Linda Watson, UNC Chapel Hill, Bondurant Hall, CB#7190, Chapel Hill, NC 27599-7190
+Jeffrey Labban, UNC Greensboro, 231 HHP Building, Greensboro, NC 27412
+D. Kimbrough Oller, The University of Memphis, 807 Jefferson Avenue, Memphis, TN 38105
+Elena Patten and Jeffrey Labban are at UNC Greensboro in North Carolina, USA; Katie Belardi, Grace Baranek and Linda Watson are
+at UNC Chapel Hill in North Carolina, USA; D. Kimbrough Oller is at the University of Memphis in Tennessee, USA.
+NIH Public Access
+Author Manuscript
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+Published in final edited form as:
+J Autism Dev Disord.
+2014 October ; 44(10): 2413–2428.
+doi:10.1007/s10803-014-2047-4.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+diagnosed until preschool or kindergarten age (2012).
+Research targeting early detection has
+primarily focused on behaviors exhibited during toddlerhood (12–36 months) and preschool
+years (36–60 months) (e.g., Matson, Fodstad, & Dempsey, 2009; Volkmar & Chawarska,
+2008) after diagnosis has been made.
+Use of retrospective video analyses and studies of
+infant siblings of children diagnosed with ASD has allowed examination of possible
+indicators of ASD in the first year of life (e.g., Baranek, 1999; Osterling, Dawson, &
+Munson, 2002; Sheinkopf, Iverson, Rinaldi, & Lester, 2012; Zwaigenbaum et al., 2005).
+Still, the most widely used autism screening tool for young children, the Modified Checklist
+for Autism Toddlers (MCHAT: Robins, Fein, Barton, & Green, 2001) is recommended for
+ages 16–30 months.
+We sought to identify potential communication markers of ASD that might be observed
+within the first year of life in a retrospective evaluation of data from infants recorded at
+home and later diagnosed with ASD.
+We focused on presumed precursors to language for
+two reasons: First, communication impairment is a core deficit in ASD, and second,
+evaluation of very early vocal behaviors in typically developing infants has already
+established markers that are critical to normal vocal communicative development.
+One
+robust pre-speech vocal milestone is the onset of canonical babbling.
+A canonical syllable
+(e.g., ) is comprised of a consonant-like sound and a vowel-like sound, with a rapid
+transition between them (Oller, 1980, 2000).
+A second potentially important vocal measure
+that we considered is volubility, the rate of infant vocalization independent of vocal type
+(Nathani, Lynch, & Oller, 1999; Obenchain, Menn, & Yoshinaga-Itano, 1998).
+Canonical babbling as a key milestone
+In typical development, infants from birth produce vegetative vocalizations (e.g., coughs,
+burps, etc.)
+and cry, as well as vowel-like sounds that become more elaborate with time,
+incorporating supraglottal articulations until canonical syllables emerge, usually by early in
+the second half-year of life.
+Robust onset of canonical babbling has been well documented
+in typically developing infants by not later than 10 months (Koopmans-van Beinum & van
+der Stelt, 1986; Oller, 1980; Stark, 1980).
+The impression of robustness has been reinforced
+by the fact that no delay in onset of canonical babbling has been discerned in infants
+anticipated to be at-risk for communication deficits due to premature birth or low
+socioeconomic status (Eilers et al., 1993; Oller, Eilers, Basinger, Steffens, & Urbano, 1995).
+Even infants with Down syndrome usually show normal ages of onset, although a group
+level delay of a month or more is detectable (Lynch et al., 1995).
+Furthermore, infants
+tracheostomized at birth to provide an artificial airway that prevents or substantially inhibits
+vocalization for many months tend to produce age-appropriate canonical syllables within a
+short period after decannulation (Bleile, Stark, & McGowan, 1993; Locke & Pearson, 1990;
+Ross, 1983; Simon, Fowler, & Handler, 1983).
+Only profound hearing impairment and Williams syndrome have been shown to produce
+consistent substantial delays in the onset of canonical babbling (Kent, Osberger, Netsell, &
+Hustedde, 1987; Koopmans-van Beinum, Clement, & van den Dikkenberg-Pot, 1998;
+Masataka, 2001; Oller & Eilers, 1988; Stoel-Gammon & Otomo, 1986).
+Further supporting
+the idea that restricted hearing prevents experiences critical to onset of canonical babbling,
+Patten et al.
+Page 2
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+age of onset in severely or profoundly hearing impaired infants has been reported to be
+positively correlated with age of amplification (Eilers & Oller, 1994).
+In infants without known disorders, onset of canonical babbling after ten months has been
+shown to be a significant predictor of language delay or other developmental disabilities
+(Oller, Eilers, Neal, & Schwartz, 1999; Stark, Ansel, & Bond, 1988; Stoel-Gammon, 1989).
+But late onset of canonical babbling is a rare occurrence in infants without easily diagnosed
+physical or mental limitations.
+The seeming resistance to derailment of this developmental
+milestone suggests that canonical babbling is of such importance in human development that
+it has been evolved to emerge within a relatively tightly constrained time period in spite of
+substantial variations in home environments and perinatal events.
+The importance of
+canonical babbling in predicting later language functioning is assumed to be due to the fact
+that words are overwhelmingly composed of canonical syllables, and thus lexical learning
+depends on control of canonical syllables.
+To date, only two studies of which we are aware have targeted canonical babbling in ASD
+and neither specifically examined the onset of canonical babbling, But reasons for optimism
+that delays in onset of canonical babbling could constitute an early ASD marker can be
+found in research showing that various aspects of vocalization appear to be disrupted in
+young children with ASD (Paul, Augustyn, Klin, & Volkmar, 2005; Peppe, McCann,
+Gibbon, O’Hara, & Rutherford, 2007; Sheinkopf, Mundy, Oller, & Steffens, 2000; Warren,
+Gilkerson, Richards, & Oller, 2010; Wetherby et al., 2004).
+Research using automated
+analysis of all-day recordings based on the automated LENA (Language ENvironment
+Analysis) system of classification has shown clear indications that young children with ASD
+(16–48 months) display low rates of canonical syllable production compared with typically
+developing infants, even after matching of subgroups for expressive language (Oller et al.,
+2010).
+Even more to the point, one recent study has assessed the usage of canonical syllables
+(though not the onset of canonical babbling) in infants at high-risk for ASD because they
+were siblings of children with ASD; seven of 24 participants in the study received a
+provisional diagnosis of ASD at 24 months (Paul, Fuerst, Ramsay, Chawarska, & Klin,
+2011).
+As a group, the at-risk infants (all 24) produced significantly lower mean canonical
+babbling ratios (canonical syllables divided by all “speech-like” vocalizations, i.e., those
+deemed “transcribable” by the researchers) compared to low-risk infants at nine-months of
+age, but there were no significant differences at 12 months.
+“Non-speech” vocalizations
+(those deemed “not transcribable” e.g., yells, squeals, growls) were not included in the
+evaluation of canonical babbling.
+Other vocal measures—especially number of consonant-
+like elements and number of speech-like and proportion of non-speech-like vocalizations—
+also appeared to be potentially useful indicators of emergent ASD.
+Volubility in ASD
+Volubility, or rate of vocalization, measured in terms of frequency of syllable or utterance
+production, may be limited in ASD, a possibility that is supported by automated analysis of
+data showing low volubility in ASD from all-day recordings on children from 16 to 48
+months of age based on the LENA system (Warren et al., 2010).
+Volubility in infants with
+severe or profound hearing loss and in infants with Down syndrome has not been found to
+Patten et al.
+Page 3
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+be depressed compared with typically developing infants; however, infants from lower
+socio-economic status (SES) have been shown consistently to produce fewer utterances per
+minute than their middle or high SES peers (Eilers et al., 1993; Oller et al., 1995).
+Research
+suggests that children in low SES experience less communication from caregivers (Hart &
+Risley, 1995; Snow, 1995).
+The lower volubility of these infants may be a product of
+decreased social-communication from adults, potentially resulting in lower levels of social
+motivation in the infants.
+Variability in moment-to-moment parental interactivity clearly does affect infant volubility
+by the middle of the first year of life, as indicated by research on parent-infant interaction in
+the “still-face” paradigm.
+The work suggests a strong tendency in the particular case of
+parent still-face for infants to increase vocalization rate.
+Specifically, volubility during a
+baseline period of one to three minutes of face-to-face vocal interaction is substantially
+lower than during a following still-face period of one to three minutes where the parent
+withholds any facial or vocal reaction while continuing to look directly at the infant.
+This
+pattern is seen in infants after 5 months, but not at 3 months, where volubility does not
+change at the shift from face-to-face interaction to still-face (Delgado, Messinger, & Yale,
+2002; Goldstein, Schwade, & Bornstein, 2009; Yale, Messinger, Cobo-Lewis, Oller, &
+Eilers, 1999).
+The results from the still-face paradigm are interpreted to mean that infants
+seek to re-engage the withdrawn parent during the still-face period, having learned by the
+middle of the first year that their vocalizations can have impact (Tronick, 1982).
+This effect
+raises the question of whether infants with emergent ASD similarly increase their volubility
+to re-engage their caregivers after a period of withdrawn caregiver attention, or whether they
+decrease volubility, possibly due to diminished motivation to engage socially with others.
+Frequency of vocalizations directed at others has been reported to be significantly lower in
+infants later diagnosed with ASD compared to typically developing infants at 12 months but
+not at 6 months (Ozonoff, Iosif, Baguio, Cook, Hill, et al., 2010).
+It is also notable that
+frequency of vocalization based on parent report is predictive of language abilities in
+toddlers with ASD (Weismer, Lord, & Esler, 2010).
+Paul et al.
+(2011) assessed frequency of
+vocalization in infants at high-risk and low-risk for developing ASD and found no difference
+between groups.
+However, the study did not actually test for volubility the way volubility is
+defined here and in much prior research.
+Frequency of vocalization was tallied in a special
+way in the Paul et al.
+study, by counting all speech-like (phonetically transcribable) and
+nonspeech-like (not phonetically transcribable) vocalizations that occurred within the first
+50 speech-like vocalizations of each recorded sample.
+But not all participants produced 50
+speech-like utterances, and in the ones who did, the length of recording required to reach the
+50 speech-like utterance criterion was variable.
+Thus, rate of vocalizations per unit of time
+was not examined in this study; consequently, given the common usage of the term
+volubility, it is not possible to determine whether there was a difference in volubility
+between the groups.
+In addition, participants in this study were at high-risk for ASD—some
+were later diagnosed with ASD while some were not.
+This mixture may have attenuated
+group differences.
+It should also be noted that Weismer et al.
+included only child
+vocalizations directed at others while Paul et al.
+included vocalizations.
+Although ASD has
+roots in social impairments, vocalizations directed at others as well as independent vocal
+play might well be abnormal in ASD.
+Patten et al.
+Page 4
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+A new study of early vocal development in ASD
+One reason the development of pre-speech vocal behaviors in ASD has not been well
+documented may be that ASD is not reliably diagnosed until long after canonical syllables
+are expected to emerge, thus making prospective analyses challenging.
+Retrospective
+interviews with parents whose children have been diagnosed with ASD regarding age at
+which canonical syllables emerged may be hindered by poor parent recall, given that parents
+are generally asked to remember the nature of child babbling that occurred one or more
+years prior to the time of the interview; also, parents’ awareness of the diagnosis may bias
+their recall of the onset of canonical babbling.
+The effort by Paul et al.
+(2011) cited above
+represents a key advancement in methodology because they assessed infants known to be at-
+risk in a prospective fashion.
+Our approach seizes an additional opportunity afforded by the
+fortuitous existence of home video data from the first year of life that can be analyzed after
+diagnosis of ASD for comparison with similar video data from infants who did not receive
+the diagnosis.
+As indicated in studies cited above, emergence of canonical syllables is a critical milestone
+in the development of spoken language, and delayed onset has been shown to be predictive
+of significant communication impairment.
+Canonical babbling and volubility have not been
+well characterized in infants with ASD.
+To arrive at a better understanding of these two
+variables as potential indicators of ASD risk in infants, we investigated vocalizations of
+infants later diagnosed with ASD and typically developing (TD) infants at two age ranges,
+9–12 months and 15–18 months, using retrospective video analysis methods.
+Previous
+research has suggested that nearly all TD infants reach the canonical babbling stage by 9–12
+months (Eilers & Oller, 1994), and on the assumption that a delay might be present in the
+children later diagnosed with ASD, we predicted such delay would be observed in this age
+range.
+We took the opportunity also to evaluate the available data at 15–18 months because
+any infant with a failure to show canonical babbling at that age would be greatly delayed in
+canonical babbling onset and would be considered at very high risk for a variety of
+disorders.
+The coding scheme for this study is based on a widely applied method for laboratory-based
+evaluation of canonical babbling (Oller, 2000).
+In accord with this method, infants are
+assumed to be in the canonical stage if they show a canonical babbling ratio (canonical
+syllables divided by all syllables) of at least .15, a value based on coding by trained listeners
+of a recording.
+A value of .15 or greater from such laboratory coding has been empirically
+determined in prior research as corresponding to parent judgments that infants are in the
+canonical stage (Lewedag, 1995).
+It has been reasoned that parent judgments constitute the
+most appropriate standard for establishing this criterion value (Oller, 2000).
+This reasoning
+is based on three points: 1) Parents respond to interview questions by providing very
+consistent and accurate information about canonical babbling in their infants (Papoušek,
+1994; Oller, Eilers, & Basinger, 2001); 2) this parental capability is predictable, given that
+recognizing canonical babbling represents nothing more than being able to recognize
+syllables as being well-formed enough that they could form parts of words in real speech
+(and of course normal adults can easily recognize vocalizations of humans as speech or non-
+speech); and 3) parents appear to intuitively understand that the onset of canonical babbling
+Patten et al.
+Page 5
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+is an emergent foundation for speech, as evidenced by the fact that they initiate intuitive
+lexical teaching as soon as they begin to recognize canonical babbling in their infants
+(Papoušek, 1994).
+Consistent parent recognition of the onset of canonical babbling runs in
+parallel with recognition of other developmental milestones (e.g., sitting unsupported,
+crawling, walking).
+In our study we could not use parents as informants about the age of
+onset of canonical babbling since that onset had occurred a very long time before our first
+contact with them.
+Consequently, the canonical babbling ratio, determined from recordings
+coded in our laboratory, provided the best available measure upon which to base inference
+about whether infants had reached the canonical stage.
+In the present study the following hypotheses were tested:
+1.
+Infants later diagnosed with ASD will be less likely than TD infants to be in the
+canonical stage at each age (9–12 and 15–18 months), as determined by whether
+their canonical babbling ratios exceed the .15 criterion.
+2.
+Infants later diagnosed with ASD will demonstrate significantly lower canonical
+babbling ratios (independent of the canonical stage criterion) compared to TD
+infants.
+3.
+Infants later diagnosed with ASD will demonstrate significantly fewer total
+vocalizations (lower volubility) at both age ranges compared to TD infants.
+4.
+A combined analysis using both volubility and canonical babbling status will
+significantly predict group membership.
+Method
+Participants
+A total of 37 participants were included in the present study, 23 individuals later diagnosed
+with ASD and 14 individuals in the TD group (Table 1).
+There was one set of fraternal twins
+in the ASD group.
+Participants were drawn from a larger study conducted at the University
+of North Carolina-Chapel Hill based on availability of video recordings; participants must
+have had two five-minute edited video segments at 9–12 months and at least one edited
+video segment at 15–18 months.
+As part of the larger study, participants were recruited from
+the Midwest and Southeast over a 15-year time period.
+Recruitment criteria included: (1)
+child age between two and seven years at the time of recruitment; (2) available home
+videotapes of the child between birth and two years of age that parents were willing to share;
+and (3) enough video footage for at least one 5-minute codable segment (see video editing
+section below) of the child at either 9–12 or 15–18 months of age.
+All participants included in the ASD group received a clinical diagnosis of ASD from a
+licensed psychologist and/or physician at a point after the recordings were made.
+Thus, our
+design is a retrospective analysis similar to others that have used home movies of children
+later diagnosed with ASD (Baranek, 1999; Werner, Dawson, Osterling, & Dinno, 2000).
+A
+trained research staff member validated diagnoses for each participant using criteria from
+the Diagnostic and Statistical Manual IV (American Psychiatric Association, 2000) and
+from one or more ASD screening and diagnostic tools, including: the Childhood Autism
+Patten et al.
+Page 6
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Rating Scale (CARS; Schopler, Reichler, & Renner, 1992), the Autism Diagnostic
+Observation Schedule (ADOS; Lord, et al., 1999), and/or the Autism Diagnostic Interview-
+Revised (ADI-R; Rutter, LeCouteur, & Lord, 2003).
+All participants had CARS scores and
+each participant in the ASD group had ADI/ADI-R scores and 13 of the 23 ASD participants
+had ADOS scores.
+Typically developing group membership was based in part on scores within normal limits
+(i.e., not more than one standard deviation below the mean) on the Mullen Scales of Early
+Learning (Mullen, 1995) and/or the Vineland Adaptive Behavior Scales (VABS; Sparrow,
+Balla, & Cicchetti, 1984).
+An additional exclusionary criterion for any participants in the TD
+group was any history of learning or developmental difficulties per parent report.
+Individuals
+with significant physical, visual or hearing impairments or known genetic conditions (e.g.,
+Fragile X or Rett’s Syndrome) associated with ASD were excluded.
+As indicated in Table 1,
+mean age (in months) was very similar across groups, gender was balanced, and the two
+groups were also similar with regard to SES based on maternal education.
+Our families were
+mostly middle SES with access to videotaping equipment.
+The University of North Carolina-Chapel Hill Institutional Review Board approved the
+study, and all families signed informed consents.
+For more information regarding
+recruitment and inclusion criteria see Baranek (1999).
+Video Editing Procedures
+Families provided home videos of their child from birth to two years as available.
+The
+videotapes included footage from a variety of contexts including family play situations,
+vacations, outings, special events, and familiar routines (e.g., mealtimes), with individual
+variation in situational content of each family’s videotapes as would be expected in home
+videotapes.
+All videotapes were copied, transformed to digital formats, and originals were
+returned to participating families.
+Video editing guidelines first focused on the identification of video footage during which the
+child was consistently visible and for which the parents felt they could accurately identify
+the child’s age.
+The two age ranges were originally selected for another study on early
+behavior in ASD (Baranek, 1999).
+At the same time, the two age ranges are well-suited to
+our current purposes.
+The 9–12 month age range is the earliest age range in which parents
+had sufficient videotape footage for it to be useful in our research and represents the time
+period when a number of communicative behaviors emerge.
+Further, this is a time frame
+during which the vast majority of TD children would be expected to already be in the
+canonical babbling stage.
+The 15–18 month range provided follow-up on the same children
+with the expectation that monitored behaviors would be more consistent and would allow for
+confirmation or clarification of data from the earlier age.
+In TD children, canonical babbling
+is usually well consolidated by the 15–18 month age range (Vihman, 1996; Oller, 2000).
+In editing tapes for the larger study, the aim was to compile two 5-minute video segments
+for each child in the 9–12 age range, and two 5-minute segments in the 15–18 month age
+range.
+On average, each 5-minute segment consisted of 5 scenes.
+Research assistants who
+were blind to the research questions and not informed of the diagnostic status of the
+Patten et al.
+Page 7
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+participants edited the videotapes and coded each scene for the following content variables:
+(a) number of people present; (b) amount of physical restriction on child’s freedom to move,
+rated as low, medium, or high; (c) the amount of social intrusion another person was using
+to engage the child in interaction, rated as low, medium, or high; (d) and the types of events
+(e.g., meal time, bath time, active play, special events) (Baranek, 1999).
+The assistants were
+instructed to quasi-randomly select a cross-section of scenes from the available footage in
+the designated age ranges, purposely including scenes from each one-month age interval for
+which video footage was available within each age range, provided that the child was visible
+in each selected scene.
+All participants included in the current study had two 5-minute
+compilations (i.e., 10 minutes total) for the 9–12 month age range, but at the 15–18 month
+age range, there were three TD infants and one infant with ASD for whom only a single 5-
+minute segment was assembled due to insufficient video footage.
+As a result, the mean
+duration of samples at the 15–18 month age range was 9.5 minutes rather than 10.
+Although vocalization from the infants was common in these scenes, the segments were not
+specifically selected to capture vocal behavior.
+Therefore, volubility estimated from the
+present study may be lower than in prior works where infants have been observed in settings
+designed to maximize vocal interaction.
+Similarly, the video segment selection procedure
+may yield differences in canonical babbling from prior studies.
+In most studies, 20–30
+minutes of vocal interaction have been recorded, whereas here we had less than half that
+amount of data per sample.
+Our procedure can be predicted to produce greater variability in
+canonical babbling ratios than in studies with longer sampling periods (Molemans, 2011;
+Molemans et al., 2011).
+Additionally, the audio-video quality of these home movies was not
+as good as would be expected in laboratory studies, another factor that could reduce
+perceived canonical babbling and volubility.
+To ensure that the contexts in which children were recorded were comparable, specific
+content parameters were identified and compared (Tables 2 and 3).
+No differences were
+found between the groups on any content parameter including: number of people present,
+level of physical restriction (i.e., amount of physical confinement such as a highchair versus
+free play; rated as low, medium or high), amount of social intrusion (rated as low, medium
+or high), and the total number of event types (e.g., meal time, active play).
+The number of
+times each event type (e.g., bath time, playtime) was represented in the ASD group versus
+the TD group for each age was compared using chi-square analyses.
+Results for the omnibus
+chi-square test failed to reach significance in the 9–12 month age group (p > 0.05), but did
+reach significance in the 15–18 months age group (p = 0.046).
+Typically developing children
+were more likely to be engaged in passive activities at the 15–18 month age range (p =
+0.046; TD = 16.6%, ASD = 4.6%) according to follow-up analysis of the six event
+categories.
+See Tables 4 and 5 for the percentage in each category.
+For a comprehensive
+description of the coding procedures that yielded the data on situational context see Watson,
+Crais, Baranek, Dykstra, and Wilson (2012).
+Coding Procedure and Observer Agreement
+The videotapes analyzed in this study were coded for infant production of all syllables in
+speech-like vocalizations by two certified speech-language pathologists who were not
+Patten et al.
+Page 8
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+informed of the diagnostic group of the infants.
+The intent was, of course, for the coders to
+be blind to diagnostic category, and with the exception of one infant to be discussed below,
+the coders reported they saw no reason to suspect any infant of having ASD.
+We defined speech-like vocalizations (as in the primary literature on canonical babbling) to
+include both canonical and precanonical infant vocalizations (regardless of whether they
+would be deemed “transcribable”).
+Training of the two coders was provided by the last
+author, who originated the definition of “canonical syllable” used in this study, and who has
+conducted and collaborated on numerous studies on onset of canonical babbling, rate of
+canonical babbling, and volubility in infants (Cobo-Lewis, Oller, Lynch, & Levine, 1996;
+Lynch et al., 1995; Oller & Eilers, 1982, 1988; Oller, Eilers, & Basinger, 2001; Oller et al.,
+1995; Oller, Eilers, Neal, & Cobo-Lewis, 1998).
+The two observers were trained in
+identifying canonical syllables and in counting all syllables independent of their canonical
+status.
+The video samples used during training were separate (although drawn from similar
+materials based on the home recordings) and not included in the analyses for this
+investigation.
+Syllables were defined as rhythmic units of speech-like vocalization, excluding raspberries,
+effort “grunt” sounds (i.e., a schwa-like sounds produced as an artifact of physical exertion),
+ingressive sounds, sneezes, hiccups, crying and laughing.
+Within an “utterance”, which was
+defined as a vocal breath group (Lynch, Oller, Steffens, & Buder, 1995), it was possible to
+identify syllables as corresponding to sonority peaks (high points of pitch and/or amplitude)
+that are intuitively recognized by mature listeners.
+These rhythmic events occur in time
+frames typical of syllables in real speech (usually with durations of 200–400 ms).
+A
+canonical syllable is defined as including a vowel-like nucleus, at least one margin (or
+consonant-like sound) and a transition between margin and nucleus that is rapid and
+uninterrupted.
+In general, transitions that are too fast to be tracked auditorily (too fast to be
+heard “as transitions”) are instead heard as gestalt syllables.
+Auditory tracking of these
+transitions focuses on formant (acoustic energy) transitions that can be measured on
+spectrograms as typically < 120 ms (Oller, 2000).
+Formants are audible bands of energy
+corresponding to resonant frequencies of the vocal tract that change as the tract changes
+shape or size.
+Audible formant transitions occur, then, when the vocal tract moves during
+opening from a consonantal closure into a vowel or vice versa.
+Examples of canonical utterances (which must include at least one canonical syllable) are
+syllables that a listener might perceive as ba, taka, or gaga.
+Vocalizations produced while
+mouthing objects (e.g., toys or fingers) or eating were excluded from our analyses on the
+grounds that we could not be sure what role movement of the hands may have played in the
+apparent syllabification.
+Videos were randomized and randomly distributed across the two coders with regard to
+diagnostic group.
+The 37 participants’ videos were randomly split between the coders by
+participant and included both age ranges.
+The coders independently watched the videos,
+counting both syllables and canonical syllables in real time.
+This procedure is utilized
+regularly in the laboratories of the last author in accord with reasoning presented in recent
+Patten et al.
+Page 9
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+papers, especially Ramsdell et al.
+(2012).
+This naturalistic listening approach mimics how a
+mother would hear her child, listening to each utterance only once.
+The measure of canonical babbling ratio used here (number of canonical syllables divided
+by number of all syllables) is the measure utilized in the bulk of research on onset of
+canonical babbling to date.
+However, some studies have used a different ratio (number of
+canonical syllables divided by number of utterances).
+The former procedure is generally
+preferred nowadays because the resulting value can be interpreted as a proportion with
+values varying from 0 to 1, whereas the latter procedure yields a ratio with no effective
+upper limit (Oller, 2000).
+In a coder agreement test, both observers independently coded twenty samples consisting of
+two five-minute segments of ten participants’ video footage.
+A research assistant unaware of
+the study goals selected these test samples, and they represented both diagnostic groups and
+both ages.
+Reliability was gauged in accord with the degree to which coders agreed upon
+canonical syllables, total syllables, and whether the child was in the canonical babbling stage
+(i.e., had a canonical babbling ratio > 0.15, the standard criterion).
+Inter-rater agreement
+ranged from good to excellent for canonical syllables (ICC = .98, CI95 = .96 – .99) and for
+total syllables (ICC = .87, CI95 = .61 – .95).
+Reliability for canonical babbling ratios was
+also good (ICC = .89, CI95 = .69 – .96), with agreement on the canonical stage criterion at
+95% for the twenty samples.
+Additionally, the coders differed by an average of only 10% of
+the total range of canonical babbling ratios obtained, and the correlation across the ratios for
+the twenty samples for the two coders was .89.
+For volubility, the coders differed by an
+average of 13% of the total range for volubility values, and the correlation across the twenty
+sample videos for the two coders was .91.
+Results
+Analyses were performed to confirm that the groups were matched on demographic
+variables.
+These analyses did not reveal significant differences between groups on any
+variable (see Table 1).
+Initial descriptive statistics for within- and between-group variables revealed two outliers in
+the ASD group.
+Both cases produced very high canonical babbling ratios in the 9–12 month
+range (.93 and .64) relative to the mean for both groups (ASD = .12 for the 23 cases, TD = .
+17) (see Figure 1).
+Based on prior research, the canonical babbling ratios observed for these
+two ASD cases were substantially higher than would be expected in TD infants in the 9–12
+month age range—infants grouped as having English or Spanish at home, as high or low
+SES, and as born at term or prematurely all showed mean canonical babbling ratios under .4
+from 8 to 12 months of age (Oller, Eilers, Urbano, & Cobo-Lewis, 1997; Oller, Eilers,
+Steffens, Lynch, & Urbano, 1994).
+Analysis of z-scores revealed that infant 22 was 3.96
+standard deviations above the mean for the present sample, and infant 23 was 2.73 standard
+deviations above the mean, further suggesting outlier status.
+On this basis we decided to
+eliminate these two cases in the primary analyses on canonical babbling; the remaining 35
+cases (21 ASD, 14 TD) were analyzed to address our research questions regarding canonical
+babbling (see Figures 1 and 2 for canonical babbling ratios by participant at both ages, with
+Patten et al.
+Page 10
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+the two outliers indicated).
+However, there were no significant outliers with regard to
+volubility, and thus we included data from all 37 cases for that analysis (see Figures 3 and 4
+for syllable volubility by participant at both ages).
+Hypothesis 1: Infants later diagnosed with ASD will be less likely than typically developing
+infants to be in the canonical stage at each age (9–12 and 15–18 months)
+Log odds ratios (log OR) were calculated to compare the classifications of both ASD and
+typically developing children with regard to their canonical babbling.
+The criterion for
+canonical babbling stage was set at 15% or greater canonical syllables compared to all
+syllables; this is a common criterion in studies of canonical babbling, and is based on data
+reviewed in Oller (2000).
+TD infants were significantly more likely to have reached the
+canonical babbling stage based on the criterion than were infants later diagnosed with ASD
+at the 9–12 months age range (N = 35, log OR = 2.84, CI95 = 1.02 to 4.66, p = 0.002), and
+remained more likely at the 15–18 month age range (N = 35, log OR = 1.78, CI95 = −0.04 to
+3.61, p = 0.054).
+As an easily interpretable effect size measure, the simple odds ratios (as
+opposed to the log odds ratio, which is statistically preferable for significance testing with
+small N’s) can be considered; the simple ORs indicated TD infants were 17 times more
+likely (OR = 17.1) to be categorized as in the canonical stage than ASD infants at 9–12
+months and 6 times more likely (OR = 5.96) at 15–18 months.
+Hypothesis 2: Infants later diagnosed with ASD will demonstrate significantly lower
+canonical babbling ratios (independent of the canonical stage criterion) compared to
+typically developing infants
+Canonical babbling ratios of infants later diagnosed with ASD and TD infants were
+contrasted using a Mixed ANOVA.
+The between-subjects variable was diagnostic category
+(ASD vs. TD) and the within-subjects variable was age range (9–12 months and 15–18
+months).
+The mean canonical babbling ratios at 9–12 months were .06 (SD = .06) for the 21
+infants later diagnosed with ASD and .17 (SD = .13) for the 14 TD infants; at 15–18 months
+the values were .16 (SD = .22) and .28 (SD = .16) respectively (Figure 5).
+Analyses revealed
+a significant main effect for diagnostic category (F (1,1) = 6.79, p = .01, ŋp2 = 0.17), with
+infants later diagnosed with ASD producing significantly lower canonical babbling ratios,
+and a significant main effect for age (F (1,1) = 7.86, p < .01, ŋp2 = 0.19), with higher
+canonical babbling ratios at the older age.
+The effect size between groups for 9–12 months
+was d = 1.09 (a large effect) and for 15–18 months was .62 (a moderate effect; Cohen,
+1992).
+The age by diagnosis interaction was not significant (p > 0.66).
+Hypothesis 3: Infants later diagnosed with ASD will demonstrate significantly fewer total
+vocalizations (lower volubility) at both age ranges compared to typically developing
+infants
+For this analysis, all 37 infants were included because there were no significant outliers.
+Volubility of infants later diagnosed with ASD and TD infants were contrasted using a
+Mixed ANOVA.
+The between-subjects variable was diagnostic category (ASD vs. TD), and
+the within-subjects variable was age range (9–12 months and 15–18 months).
+Infants later
+diagnosed with ASD produced a mean of 4.55 (SD = .59) syllables per minute while TD
+Patten et al.
+Page 11
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+infants produced a mean of 5.86 (SD = .67) syllables per minute at 9–12 months.
+At 15–18
+months, infants later diagnosed with ASD produced a mean of 3.24 (SD = .49) syllables per
+minute while TD infants produced a mean of 4.63 (SD = .51) syllables per minute (see
+Figure 6).
+Analyses revealed a significant main effect for diagnostic category (F (1,1) =
+4.85, p = .034, ŋp2 = 0.12), and for age (F (1,1) = 4.96, p = .032, ŋp2 = 0.12).
+Thus, infants
+later diagnosed with ASD displayed significantly lower volubility than TD infants.
+The
+effect size for group at 9–12 months was d = 2.07 (large) and at 15–18 months was 2.77
+(large).
+Hypothesis 4: A combined analysis using both volubility and canonical babbling status
+will significantly predict group membership
+Logistic regression analysis was conducted to test whether canonical babbling status
+(whether each participant met the .15 criterion) and volubility at age ranges of 9–12 months
+and 15–18 months could reliably predict later diagnosis status (group membership).
+This test
+was conducted with all 37 cases included, partly in order to match the number of cases for
+the two predictor variables and partly because the goal of the analysis was to determine the
+potential practical utility of identification of these children without any information other
+than volubility and canonical babbling ratio.
+This test may thus be the one of primary
+clinical interest, since it evaluates the circumstance that screening implies, where there
+would be no basis for knowing whether an infant might be an outlier on any variable.
+Without this evaluation there would be no direct indication in our results of the degree of
+group discriminability.
+Statistical significance was reached in a test of the full model against a constant-only model,
+which indicated that, as a set, canonical babbling status and volubility reliably predicted
+later diagnosis (χ2 = 9.82, p = 0.044, df = 4).
+A small-to-moderate relationship between
+prediction and grouping was observed (Nagelkerke’s R2 = 0.317), with an overall prediction
+success of 75% (64% for TD and 82% for ASD).
+However, further examination of the
+predictors using the Wald criterion revealed that when all four predictor variables were
+included in the model, none significantly contributed to prediction of group membership at
+an individual level (p > 0.05).
+The status of infants with regard to canonical babbling stage
+at the 9–12 months age range provided the largest observed predictive contribution, Wald =
+3.06, p = 0.08, EXP(B) = 0.198.
+The contribution to group discriminability by volubility at
+9–12 and 15–18 months age ranges approached nil, EXP(B) = 0.992 and 0.985 respectively.
+Examination of the correlations among the predictor variables showed that all but volubility
+at 9–12 months were significantly correlated with all other predictors (Table 6), with
+volubility at 9–12 months significantly correlated with only canonical babbling at 9–12
+months.
+This inter-relation among the predictor variables suggests that, to some degree, they
+account for some of the same variance in diagnosis.
+However, the observed EXP(B) values
+(odds ratios of the outcomes given the value of an individual predictor) more strongly
+suggest that canonical babbling at 9–12 months accounted for the bulk of the variability in
+diagnosis.
+It seems clear that significance of the individual predictors in the logistic regression may
+have been hampered by the high level of relation among them.
+Individually, the volubility
+Patten et al.
+Page 12
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+variables did not appear to have much influence given small Betas and high p-values.
+When
+predictors were entered into the model in a hierarchical fashion, no matter how predictor
+entry was ordered (9–12 month variables at step 1 and 15–18 month variables at step 2, or
+CB variables at step 1 and volubility at step 2), only the 9–12 month CB variable was a
+significant independent predictor.
+R2 changes and diagnostic ability for all of the regression
+and regression step iterations suggested little was added to the R2 by adding variables in the
+second step (even with two more predictor variables, only ~ 2–3% was added to R2), nor did
+these additions substantially alter the ability of the model to predict later diagnosis.
+The
+most efficient model appeared to be a logistic regression with 9–12 month CB as the only
+predictor.
+Discussion
+The importance of early intervention for children with ASD has resulted in attempts to
+quantify behaviors in infancy that may lead to early detection.
+Substantial effort has
+addressed gestural and social development and their potential roles in detection within the
+first year of life (e.g., Watson, Crais, Baranek, Dykstra, & Wilson, 2013).
+The present
+results offer parallel findings in the domain of vocal development by demonstrating
+significant group differences in canonical babbling status, canonical babbling ratio, and total
+syllables produced (volubility) during the first year of life.
+In our study, infants later diagnosed with ASD were significantly less likely to be classified
+as being in the canonical babbling stage, and demonstrated significantly reduced canonical
+babbling ratios compared to TD peers.
+Although significant group differences were apparent
+in both age ranges (9–12 and 15–18 months), the effect sizes for canonical babbling were
+larger at 9–12 months.
+Paul et al.
+(2011) demonstrated similar results in infants at high-risk
+for developing ASD who produced significantly lower canonical babbling ratios compared
+to low risk infants at 9 months, though at 12 months the differences were not statistically
+significant.
+Combined with the finding from Oller et al.
+(2010) that children with ASD up to
+48 months of age show low canonical syllable production, the data here suggest that low
+production of canonical syllables may be a helpful marker for ASD from infancy into early
+childhood.
+Since canonical babbling is well established in the vast majority of TD infants by 10 months
+(Eilers and Oller, 1994), it might seem odd that several of the TD infants (5 at 9–12 months
+and 3 at 15–18 months) in the present study provided samples that did not meet the .15
+canonical babbling ratio criterion for assignment to the canonical stage of vocal
+development.
+However, it is important to consider the fact that even infants who are clearly
+in the canonical stage based on parent report often fail to reach the criterion in a single
+laboratory sample of 20–30 minutes (Lewedag, 1995).
+In addition, unlike the samples in
+prior research on canonical babbling, the samples here were not designed to elicit
+vocalizations, and consequently they may have been less rich in quantity and variety of
+vocalization than the samples that were used to develop the criterion.
+Further, our samples at
+9–12 months were only 10 minutes in duration, and at 15–18 months an average of slightly
+less than 10 minutes; it has been shown that variability in obtained canonical babbling ratios
+increases as the length of samples decreases (Molemans, 2011; Molemans, Van den Berg,
+Patten et al.
+Page 13
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Van Severen, & Gillis, 2011).
+Finally, our samples were based on home recordings with
+considerable noise and variable camera management that may have impeded our ability to
+recognize vocalizations in the samples.
+Consequently, we are not surprised that some of the
+TD infants failed to reach the criterion used to determine canonical status based on
+laboratory samples.
+Given the strong links between the onset of canonical babbling and language development
+(Oller, Eilers, Urbano, & Cobo-Lewis, 1997; Stoel-Gammon, 1989), delayed onset of
+canonical babbling in infants with ASD may reflect latent communication impairment.
+It
+also may be that delayed canonical babbling directly contributes to communication
+symptoms in ASD.
+Canonical babbling requires motor ability as well as motivation to
+produce syllables, and practice in babbling may lay critical foundations for speech.
+Prospective research on motor development in infants later diagnosed with ASD is sparse
+and often limited to high-risk groups, but available research does indicate that early motor
+impairment may be present (e.g., Matson, Mahan, Fodstad, Hess, & Neal, 2010; Manjiviona
+& Prior 1995; Page & Boucher, 1998; Teitelbaum, Teitelbaurm, Nye, Fryman, & Maurer,
+1998).
+Thus delayed canonical babbling may reflect an immature or disordered motor
+system with specific implications for speech.
+If language develops as a consequence of social reinforcement of speech-like sounds that
+eventually evolve into true words (consider behavioral models of language development as
+in Hulit & Howard, 2002; Goldstein, King, & West, 2003; Goldstein & Schwade, 2008;
+Goldstein & West, 1999), then social reinforcement may encourage the production of
+canonical babbling.
+Children with ASD may be less motivated by social reinforcement,
+yielding less frequent vocal exploration and production of canonical syllables than in TD
+infants.
+To add to the problem, a delay in canonical babbling may result in reduction in
+caregiver social-communication directed toward the infant.
+On average, by six to seven
+months and very rarely later than ten months, canonical babbling emerges in TD infants
+(Eilers & Oller, 1994).
+In response to recognition of canonical babbling, caregivers alter
+their communication pattern, sometimes attempting to direct the infant toward using
+canonical syllables meaningfully—for example, the parent who hears  may reply,
+“Yes, that’s a bubble” (Papoušek, 1994; Stoel-Gammon, 2011).
+Therefore, infants who are
+delayed in canonical babbling may also be delayed in their exposure to important linguistic
+input, and thus may be given less opportunity to learn words.
+A final point is that infants
+with ASD may simply have lower motivation to vocalize socially in the first place.
+This
+lower motivation could provide a further basis for slow vocabulary learning.
+Our results on volubility included two statistically reliable findings.
+First, children in both
+groups had lower volubility at the second age than at the first.
+We attribute no particular
+theoretical importance to this finding but we take note of the fact that the lower level of
+volubility at 15–18 months compared to 9–12 months did correspond to greater physical
+movement of the children at the older age.
+In both groups combined, level of physical
+restriction during the selected recording samples was significantly less at the older age (p < .
+001).
+As reported earlier, level of physical restriction was not significantly different between
+diagnostic groups.
+Patten et al.
+Page 14
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+The second volubility finding is that infants later diagnosed with ASD produced
+significantly fewer vocalizations deemed to be relevant for the emergence of speech (both
+canonical and non-canonical sounds) at both age ranges (9–12 and 15–18 months) compared
+to TD peers.
+Other research has demonstrated that infants with ASD direct fewer
+vocalizations to others (Ozonoff et al., 2010); our study extends this finding to a more
+general measure of volubility in terms of total vocalizations (syllables) rather than only ones
+directed to others.
+Our finding is also congruent with results from automated analysis of all-
+day recordings indicating low volubility in children with ASD at 16–48 months of age
+(Warren et al.
+2010).
+The results may seem to run counter to Paul et al.
+(2011) whose
+sample of high-risk infants were reported to not produce significantly fewer vocalizations
+than low-risk infants.
+However, as described in the introduction above, the Paul et al.
+study
+did not report data in a way that can be directly compared with the volubility data reported
+here.
+Some disability groups (e.g., hearing impaired infants and infants with cleft palate) have
+been reported to exhibit volubility similar to that of TD infants (Clement, 2004; Chapman,
+Hardin-Jones, Schulte, & Halter, 2001; Van den Dikkenberg-Pot, Koopmans-van Beinum, &
+Clement, 1998; Nathani, Oller, & Neal, 2007; Davis, Morrison, von Hapsburg, & Warner-
+Czyz, 2005); however, infants from low SES households have been reported to have
+significantly decreased volubility in comparison to those from higher SES households
+(Oller, Eilers, Basinger, Steffens, & Urbano, 1995).
+Children from low SES backgrounds are
+often presumed to be at-risk for language deficits.
+Although it would be impossible to
+identify and quantify all of the mechanisms through which poverty may affect language
+development, research has demonstrated that the amount of communication caregivers direct
+toward their children is decreased in low SES situations (Hart & Risley, 1995).
+This
+impoverished linguistic environment may result in decreased dyadic social and
+communicative interactions and thus in a decrease in overall volubility of infants.
+It is important to note that the relatively well-matched SES between our two groups suggests
+that the differences in volubility were not attributable to differences in SES.
+In the case of
+low SES households, an impoverished linguistic environment due to lack of parent
+responsiveness might be expected to lead to decreased volubility of the infant and later
+language difficulty.
+For infants later diagnosed with ASD, reduced volubility may be
+affected by multiple factors, not related to inherent parental responsiveness, but related
+instead to the social impairments of ASD.
+One issue is that these children may experience
+less linguistic stimulation due to having disrupted sensory processing systems corresponding
+to sensory hyporesponsiveness; children with ASD are less likely to respond, or require
+substantially more stimulation to respond to environmental events (Baranek, 1999; Baranek
+et al., 2013); Miller, Reisman, McIntosh, & Simon, 2001; Rogers & Ozonoff, 2005).
+This
+characteristic of ASD is also reflected in the tendency for infants as young as eight months
+who will later be diagnosed with ASD to be less likely than TD infants to respond to their
+name being called (Werner, Dawson, Osterling, & Dinno, 2000).
+This lack of
+responsiveness may indicate that infants with ASD are less affected by vocal
+communication from caregivers than TD infants.
+If so, the lack of responsiveness may
+reflect an effectively impoverished linguistic environment because of attenuated reception of
+caregiver input by infants with ASD and subsequent communication impairments.
+Indeed,
+Patten et al.
+Page 15
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+sensory hyporesponsiveness has been shown to be associated with poorer language
+functioning in children with ASD (Watson et al., 2011).
+An additional way that the environment for children with ASD may be impoverished could
+involve a social feedback loop (Warlaumont et al., 2010) that is under investigation using
+automated analysis of vocalizations of parents and infants from all-day home recordings.
+Since infants with ASD produce fewer canonical syllables than TD infants, and since
+parents respond strongly with language stimulation to canonical syllables, an infant with
+ASD may actually hear less language from parents, because parents provide input that is tied
+to the infant’s output.
+The infant’s low volubility may then be aggravated by lower input
+levels resulting from the infant’s own anomalous pattern of vocalization.
+Finally, the logistic regression analysis with four independent variables (age 1 and age 2
+canonical babbling classification and age 1 and age 2 volubility) demonstrated that
+classification of diagnostic category (ASD vs. TD) could be predicted with 75% accuracy,
+even when the two outliers were included.
+The model more accurately classified infants later
+diagnosed with ASD (Sensitivity = 82.6%) than TD infants (Specificity = 64.3%).
+The
+strongest predictor of group membership was canonical babbling classification at 9–12
+months as it alone correctly classified 90% of infants later diagnosed with ASD and 63% of
+TD infants.
+Thus, in the search for markers of ASD risk in infancy, canonical babbling
+status at 9–12 months appears to be the single best candidate among the variables considered
+in the current study.
+The utility of the measure as a group marker is age dependent, since a
+larger proportion of infants in the ASD group at 15–18 months had reached the canonical
+stage than at 9–12 months.
+To help better understand the high canonical babbling ratios of the two outliers, the coders,
+both certified speech-language pathologists, viewed the videos from those infants again after
+their outlier status was identified.
+We speculated that the outlier status of these two infants
+may be related to the phenomenon of motor stereotypy that is common in ASD, that is, that
+the two infants were engaged, at least in the 9–12 month samples, in a motor stereotypy
+focused precisely on canonical babbling.
+In re-examining the videos of the two outliers, the
+coders looked for qualitative evidence that might speak to the credibility of this speculation.
+In the second viewing of the recordings, the coders noticed that the first outlier infant
+produced the majority of the canonical syllables during a single scene while walking
+outside.
+He repeatedly produced a  syllable during this brief episode, but did not direct
+his vocalizations to the caregiver.
+The sense that a prelinguistic vocal stereotypy may have
+been operating was enhanced by the fact that the same syllable was repeated throughout.
+The stereotypy of canonical babbling in this infant was reported by the coders as
+constituting the only evidence either had noticed as specifically suggesting the possibility of
+ASD while they were coding, and thus, this was the single case where the intended blinding
+of the coders to diagnostic group seems to have been foiled.
+The coders did not observe any
+other stereotypic behaviors vocal or otherwise in these samples.
+The second infant engaged
+in high canonical babble production while roughhousing with his father, but to our clinical
+eyes, that behavior did not seem particularly unusual.
+Further research on the possibility that
+babbling can be a focus of motor stereotypy in ASD seems in order.
+It may be worthy of
+Patten et al.
+Page 16
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+note that the two outliers’ CARS scores (25 and 31) fell within the range of the scores for
+the ASD group (23–50).
+In addition to the findings suggesting possible clinically useful markers for ASD, the present
+results provide a new scientific view on the robustness of canonical babbling.
+There has
+been no prior empirical indication that canonical babbling onset is delayed in ASD, nor that
+volubility is low in infants later diagnosed with ASD.
+Our results thus suggest that the
+development of vocalization in infancy is affected by whatever the fundamental disorders of
+ASD may be.
+Assuming ASD to be a social disorder, it is not obvious that babbling would
+necessarily be disturbed in the disorder because the extent to which babbling is a social (as
+opposed to an endogenously generated) phenomenon is itself an empirical question.
+Our
+results can then be thought to provide a new empirical perspective on the possible social
+nature of babbling.
+The results also suggest that the vocal differentiation of the two groups is
+robust, given the relative clarity of the results indicating low canonical babbling and
+volubility in the infants in the ASD group, even though we had samples of low recording
+quality and very limited duration.
+The results seem especially significant in the context of a
+broad body of research cited above on the robustness of canonical babbling as a foundation
+for language and on the robust resistance of canonical babbling to delay as seen in prior
+studies cited in our paper—no delay has been found in cases of prematurity, low SES, or
+multilingual exposure.
+Future Directions and Limitations
+This study provides a proof of concept regarding the notion of atypical emergence of the
+canonical babbling stage in the developing infant who will later be diagnosed with ASD and
+the possibility that tracking canonical babbling in infancy may add to our repertoire of
+markers for ASD prior to one year of age.
+Future research to address some of the limitations
+of the current study and advance our understanding of the development of canonical
+babbling among infants with ASD is warranted by the findings of the current study.
+One
+limitation in the current study was the lack of a comparison group of infants with later
+diagnoses of non-ASD disabilities, which prevents us from definitively attributing the
+differences found in this study to ASD rather than general impairments in cognition or
+communication.
+Our working hypothesis to test in future studies will be that these
+differences in canonical babbling onset and in volubility are specific to ASD.
+Another limitation was that our study used only short video segments from each time point,
+which surely impacted our ability to precisely assess important aspects of vocalization,
+because it has been shown that variability in obtained canonical babbling ratios increases as
+the length of samples decreases (Molemans, 2011; Molemans, Van den Berg, Van Severen,
+& Gillis, 2011).
+The low canonical babbling ratios obtained for a few of the TD infants
+presumably would not have occurred with larger sample sizes.
+In future studies we hope to
+obtain longer samples, and if possible to more precisely identify canonical babbling onset
+through longitudinal laboratory assessments paired with caregiver report of onset.
+But of
+course to make this possible, prospective studies may be necessary, with several years of
+follow-up, presumably taking advantage of the opportunity presented by sibling studies.
+Such studies would also afford the opportunity to obtain much better recordings than are
+Patten et al.
+Page 17
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+available in retrospective studies such as the present one.
+Indeed, sibling studies can now
+capitalize on all-day recording, yielding the opportunity to assess vocal development in ASD
+with much greater ecological validity and representativeness.
+Onset of canonical babbling usually occurs between 5 and 9 months in TD infants.
+It
+appears from the present data that onset may occur within a much wider range in ASD.
+Quantification of onset in ASD may yield prognostic value regarding core communication
+symptoms.
+For example, if canonical stage onset is delayed beyond a certain threshold, the
+infant may be at especially high-risk for remaining nonverbal.
+Discovery of such a delay
+could allow specific interventions to be tailored based on prognosis earlier in development.
+Future research should also focus on caregivers and their roles in canonical stage
+development and its identification.
+Prior work suggests that with TD infants, parents are
+extremely accurate in their reports of the onset of canonical babbling (Oller et al., 2001).
+If
+caregivers of infants with ASD are similarly capable of identifying onset of canonical
+babbling, it may be possible to use canonical babbling onset as part of a parent-report
+screening tool for early identification.
+In addition, alterations in communication directed to
+infants by caregivers as canonical babbling emerges may help to elicit and maintain social-
+communicative interaction, and subsequently impact language development.
+Our findings on volubility represent another potential avenue for understanding early social-
+communication development processes in ASD.
+Perhaps the most intriguing aspect of this
+possibility is suggested by the proposal that there may be a feedback loop involving low
+canonical syllable production in ASD followed by low parental rate of vocalization to
+infants, aggravating the low volubility and low rate of canonical syllables in ASD
+(Warlaumont et al., 2010).
+We anticipate rapid growth of studies tracking this possibility,
+especially since there is a rapidly growing possibility of conducting some aspects of such
+analysis based on automated classification of vocalizations in all-day recordings as indicated
+by the growth of LENA system studies.
+Clinical Implications
+Our findings suggest that canonical babbling should be considered an important milestone in
+infancy that may be delayed in infants who are later diagnosed with ASD.
+If infants
+demonstrate delays in canonical babbling, a developmental assessment that includes
+evaluation of early warning signs for ASD should be administered.
+Although volubility
+appears less promising as a marker for ASD, it may be useful in combination with other
+items in the context of early identification screening tools.
+For infants demonstrating either
+low canonical babbling ratios or low volubility, interventions to draw infants’ attention to
+social-communicative stimuli in that context of dyadic interactions may help stimulate
+growth of vocal communication.
+Acknowledgments
+This research was made possible through a grant from the National Institute for Child Health and Human
+Development (R01-HD42168) and a grant from Cure Autism Now Foundation (Sensory-Motor and Social-
+Communicative Symptoms of Autism in Infancy).
+We thank the families whose participation made this study
+possible and the staff who collected and processed data for this project.
+Patten et al.
+Page 18
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+References
+Acevedo MC.
+The role of acculturation in explaining ethnic differences in the prenatal health-risk
+behaviors, mental health, and parenting beliefs of Mexican American and European American at-
+risk women.
+Child Abuse & Neglect.
+2000; 24:111–127.
+[PubMed: 10660014]
+American Psychiatric Association.
+Diagnostic and statistical manual of mental disorders.
+4.
+Washington, DC: Author; 2000. text rev
+Baranek GT.
+Autism during infancy: A retrospective video analysis of sensory-motor and social
+behaviors at 9–12 months of age.
+Journal of Autism and Developmental Disorders.
+1999; 29:213–
+224.
+[PubMed: 10425584]
+Baranek GT, David FJ, Poe MD, Stone WL, Watson LR.
+Sensory Experiences Questionnaire:
+Discriminating sensory features in young children with autism, developmental delays, and typical
+development.
+Journal of Child Psychology and Psychiatry.
+2006; 47(6):591–601.
+[PubMed:
+16712636]
+Baranek GT, Watson LR, Boyd BA, Poe MD, David FJ, McGuire L. Hyporesponsiveness to social and
+nonsocial sensory stimuli in children with autism, children with developmental delays, and typically
+developing children.
+Development and Psychopathology.
+2013; 25(2013):307–320.
+[PubMed:
+23627946]
+Bleile KM, Stark RE, McGowan JS.
+Speech development in a child after decannulation: Further
+evidence that babbling facilitates later speech development.
+Clinical Linguistics and Phonetics.
+1993; 7:319–337.
+Center for Disease Control and Prevention.
+Prevalence of autism spectrum disorders –Autism and
+developmental disabilities monitoring network, 14 Sites, United States, 2008.
+Morbidity and
+Mortality Weekly Report Surveillance Summaries.
+2012; 61:1–19.
+Retrieved from http://
+www.cdc.gov/mmwr/preview/mmwrhtml/ss6103a1.htm.
+Clarke E, Reichard U, Zuberbühler K. The anti-predator behaviour of wild white-handed gibbons
+(Hylobates lar).
+Behavioral Ecology and Sociobiology.
+2012; 66:85–96.10.1007/
+s00265-011-1256-5
+Chapman K, Hardin-Jones M, Schulte J, Halter K. Vocal development of 9 month-old babies with cleft
+palate.
+Journal of Speech, Language and Hearing Research.
+2001; (44):1268–1283.
+Chawarska K, Klin A, Paul R, Macari Volkmar F. A prospective study of toddlers with ASD: Short-
+term diagnostic and cognitive outcomes.
+Journal of Autism and Developmental Disorders.
+2009;
+50(10):1235–1245.
+Clement, CJ.
+PhD Dissertation.
+Netherlands Graduate School of Linguistics; Amsterdam: 2004.
+Development of vocalizations in deaf and normally hearing infants.
+Cobo-Lewis AB, Oller DK, Lynch MP, Levine SL.
+Relations of motor and vocal milestones in
+typically developing infants and infants with Down syndrome.
+American Journal on Mental
+Retardation.
+1996; 100:456–467.
+[PubMed: 8852298]
+Cohen, J.
+Statistical Power Analysis for the Behavioral Sciences.
+Hillsdale,, NJ: Erlbaum Associates;
+1988.
+Davis BL, Morrison HM, von Hapsburg D, Warner AD.
+Early vocal patterns in infants with varied
+hearing levels.
+Volta Review.
+2005; 105(1):7–27.
+Delgado CEF, Messinger DS, Yale ME.
+Infant responses to direction of parental gaze: A comparison
+of two still-face conditions.
+Infant Behavior and Development.
+2002; 25(3):311–318.
+Eilers RE, Oller DK, Levine S, Basinger D, Lynch MP, Urbano R. The role of prematurity and
+socioeconomic status in the onset of canonical babbling in infants.
+Infant Behavior and
+Development.
+1993; 16:297–315.
+Eilers RE, Oller DK.
+Infant vocalizations and the early diagnosis of severe hearing impairment.
+The
+Journal of Pediatrics.
+1994; 124(2):199–203.
+[PubMed: 8301422]
+Goldstein MH, Schwade JA, Bornstein MH.
+The value of vocalizing: Five-month-old infants associate
+their own noncry vocalizations with responses from adults.
+Child Development.
+2009; 80:636–
+644.
+[PubMed: 19489893]
+Patten et al.
+Page 19
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Goldstein MH, King AP, West MJ.
+Social interaction shapes babbling: Testing parallels between
+birdsong and speech.
+Proceedings of the National Academy of Sciences.
+2003; 100(13):8030–
+8035.
+Goldstein MH, Schwade JA.
+Social feedback to infants’ babbling facilitates rapid phonological
+learning.
+Psychological Science.
+2008; 19:515–522.
+[PubMed: 18466414]
+Goldstein MH, West MJ.
+Consistent responses of human mothers to prelinguistic infants: The effect of
+prelinguistic repertoire size.
+Journal of Comparative Psychology.
+1999; 113(1):52–58.
+[PubMed:
+10098268]
+Hart, B.; Risley, TR.
+Meaningful differences in the everyday experience of young American children.
+Baltimore: Paul H. Brookes; 1995.
+Hulit, LM.
+; Howard, MR. Born to talk: An introduction to speech and language development.
+Boston:
+Allyn and Bacon; 2002.
+Kent R, Osberger MJ, Netsell R, Hustedde CG.
+Phonetic development identical twins differing in
+auditory function.
+Journal of Speech and Hearing Disorders.
+1987; 52:64–75.
+[PubMed: 3807347]
+Koopmans-van Beinum, FJ.
+; Clement, CJ.
+; van den Dikkenberg-Pot, I.
+Influence of lack of auditory
+speech perception on sound productions of deaf infants.
+Berne, Switzerland: International Society
+for the Study of Behavioral Development; 1998.
+Koopmans-van Beinum, FJ.
+; van der Stelt, JM.
+Early stages in the development of speech movements.
+In: Lindblom, B.; Zetterstrom, R., editors.
+Precursors of early speech.
+New York: Stockton Press;
+1986. p. 37-50.
+Lewedag, VL.
+Doctoral Dissertation.
+University of Miami; Coral Gables, FL: 1995.
+Patterns of onset
+of canonical babbling among typically developing infants.
+Locke JL, Pearson D. Linguistic significance of babbling: Evidence from a tracheostomized infant.
+Journal of Child Language.
+1990; 17:1–16.
+[PubMed: 2312634]
+Lord C. Follow-up of two-year-olds referred for possible autism.
+Journal of Child Psychology and
+Psychiatry, and Allied Disciplines.
+1995; 36(8):1365–1382.
+Lord, C.; Rutter, M.; DiLavore, P.; Risi, S. Autism Diagnostic Observation Schedule (ADOS).
+Los
+Angeles, CA: Western Psychological Services; 1999.
+Lynch MP, Oller DK, Steffens ML, Levine SL, Basinger D, Umbel V. The onset of speech-like
+vocalizations in infants with Down syndrome.
+American Journal of Mental Retardation.
+1995;
+100(1):68–86.
+[PubMed: 7546639]
+Lynch MP, Oller DK, Steffens ML, Buder EH.
+Phrasing in prelinguistic vocalizations.
+Developmental
+Psychobiology.
+1995; 28:3–23.
+[PubMed: 7895922]
+Manjiviona J, Prior M. Comparison of Asperger syndrome and high-functioning autistic children on a
+test of motor impairment.
+Journal of Autism and Developmental Disorders.
+1995; 25:23–29.
+[PubMed: 7608032]
+Masataka N. Why early linguistic milestones are delayed in children with Williams syndrome: Late
+onset of hand banging as a possible rate-limiting constraint on the emergence of canonical
+babbling.
+Developmental Science.
+2001; 4:158–164.
+Matson JL, Fodstad JC, Dempsey T. What symptoms predict the diagnosis of autism or PDD-NOS in
+infants and toddlers with developmental delays using the Baby and Infant Screen for Autism
+Traits.
+Developmental Neurorehabilitation.
+2009; 12(6):381–388.
+[PubMed: 20205546]
+Matson JL, Mahan S, Hess JA, Fodstad JC, Neal D. Convergent validity of the Autism Spectrum
+Disorder-Diagnostic for Children (ASD-DC) and Childhood Autism Rating Scales (CARS).
+Research in Autism Spectrum Disorders.
+2010; 4(4):633–638.
+Miller, LJ.
+; Reisman, JE.
+; McIntosh, DN.
+; Simon, J.
+An ecological model of sensory modulation:
+Performance in children with fragile X syndrome, autistic disorder, attention–deficit/hyperactivity
+disorder, and sensory modulation dysfunction.
+In: Smith-Roley, S.; Blanche, EI.
+; Schaaf, RC.,
+editors.
+Understanding the Nature of Sensory Integration with Diverse Populations.
+San Antonio,
+TX: Therapy Skill Builders; 2001. p. 57-88.
+Molemans, I. PhD.
+University of Antwerp; Antwerp, Belgium: 2011.
+Sounds like babbling: A
+Longitudinal investigation of aspects of the prelexical speech repertoire in young children
+acquiriing Dutch: Normally hearing children and hearing impaired children with a cochlear
+implant.
+Patten et al.
+Page 20
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Molemans I, Van den Berg R, Van Severen L, Gillis S. How to measure the onset of babbling reliably.
+Journal of Child Language.
+2011; 39:1–30.
+[PubMed: 21418730]
+Mullen, EM.
+Mullen Scales of Early Learning: AGS Edition.
+Circle Pines, MN: American Guidance
+Service; 1995.
+Nathani S, Oller DK, Neal AR.
+On the robustness of vocal development: An examination of infants
+with moderate-to-severe hearing loss and additional risk factors.
+Journal of Speech, Language, and
+Hearing Research.
+2007; 50(6):1425–1444.
+Obenchain P, Menn L, Yoshinaga-Itano C. Can speech development at 36 months in children with
+hearing loss be predicted from information available in the second year of life?
+Volta Review.
+1998; 100:149–180.
+Oller, DK.
+The emergence of the sounds of speech in infancy.
+In: Yeni-Komshian, G.; Kavanagh, J.;
+Ferguson, C., editors.
+Child phonology, Vol 1: Production.
+New York: Academic Press; 1980. p.
+93-112.
+Oller, DK.
+The Emergence of the Speech Capacity.
+Mahwah, NJ: Lawrence Erlbaum Associates;
+2000.
+Oller DK, Eilers RE.
+Similarities of babbling in Spanish- and English-learning babies.
+Journal of Child
+Language.
+1982; 9:565–578.
+[PubMed: 7174757]
+Oller DK, Eilers RE.
+The role of audition in infant babbling.
+Child Development.
+1988; 59:441–449.
+[PubMed: 3359864]
+Oller DK, Eilers RE, Steffens ML, Lynch MP, Urbano R. Speech-like vocalizations in infancy: an
+evaluation of potential risk factors.
+Journal of Child Language.
+1994; 21:33–58.
+[PubMed:
+8006094]
+Oller DK, Eilers RE, Urbano R, Cobo-Lewis AB.
+Development of precursors to speech in infants
+exposed to two languages.
+Journal of Child Language.
+1997; 27:407–425.
+[PubMed: 9308425]
+Oller DK, Eilers RE, Basinger D. Intuitive identification of infant vocal sounds by parents.
+Developmental Science.
+2001; 4:49–60.
+Oller DK, Eilers RE, Basinger D, Steffens ML, Urbano R. Extreme poverty and the development of
+precursors to the speech capacity.
+First Lang.
+1995; 15:167–188.
+Oller DK, Eilers RE, Neal AR, Cobo-Lewis AB.
+Late onset canonical babbling: a possible early
+marker of abnormal development.
+American Journal on Mental Retardation.
+1998; 103:249–265.
+[PubMed: 9833656]
+Oller DK, Eilers RE, Neal AR, Schwartz HK.
+Precursors to speech in infancy: the prediction of speech
+and language disorders.
+Journal of Communication Disorders.
+1999; 32:223–246.
+[PubMed:
+10466095]
+Oller DK, Niyogi P, Gray S, Richards JA, Gilkerson J, Xu D, Warren SF.
+Automated Vocal Analysis
+of Naturalistic Recordings from Children with Autism, Language Delay and Typical
+Development.
+Proceedings of the National Academy of Sciences.
+2010; 107:13354–13359.
+Osterling JA, Dawson G, Munson JA.
+Early recognition of 1-year-old infants with autism spectrum
+disorder versus mental retardation.
+Development and Psychopathology.
+2002; 14(2):239–251.
+[PubMed: 12030690]
+Ozonoff S, Iosif A, Baguio F, Cook IC, Hill MM, Hutman T, Rogers SJ, Rozga A, Sangha S, Sigman
+M, Steinfeld MB, Young GS.
+A prospective study of the emergence of early behavioral signs of
+autism.
+Journal of the American Academy of Child & Adolescent Psychiatry.
+2010; 49(3):256–
+266.
+[PubMed: 20410715]
+Page J, Boucher J.
+Motor impairments in children with autistic disorder.
+Child Language Teaching and
+Therapy.
+1998; 14(3):233.
+Papoušek, M. Vom ersten Schrei zum ersten Wort: Anfänge der Sprachentwickelung in der
+vorsprachlichen Kommunikation.
+Bern: Verlag Hans Huber; 1994.
+Paul R, Augustyn A, Klin A, Volkmar FR.
+Perception and production of prosody by speakers with
+ASD spectrum disorders.
+Journal of Autsim and Developmental Disorders.
+2005; 35:205–220.
+Paul R, Fuerst Y, Ramsay G, Chawarska K, Klin A.
+Out of the mouths of babes: Vocal production in
+infant siblings of children with ASD.
+Journal of Child Psychology and Psychiatry.
+2011; 52(5):
+588–598.
+[PubMed: 21039489]
+Patten et al.
+Page 21
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Peppe S, McCann J, Gibbon F, O’Hara A, Rutherford M. Receptive and expressive prosodic ability in
+children with high-functioning ASD.
+Journal of Speech, Language, and Hearing Research.
+2007;
+50:1015–1028.
+Ramsdell HL, Oller DK, Buder EH, Ethington CA, Chorna L. Identification of prelinguistic
+phonological categories.
+Journal of Speech Language and Hearing Research.
+2012; 55:1626–1629.
+Robins DI, Fein D, Barton MI, Green JA.
+The modified checklist for autism in toddlers: An initial
+study investigating the early detection of autism and pervasive developmental disorders.
+Journal of
+Autism and Developmental Disorders.
+2001; 31:131–144.
+[PubMed: 11450812]
+Rogers SJ, Ozonoff S. Annotation: What do we know about sensory dyfunction in autism?
+A critical
+review of the empirical evidence.
+Journal of Child Psychology and Psychiatry.
+2005; 46(12):1255–
+1268.
+[PubMed: 16313426]
+Ross GS.
+Language functioning and speech development of six children receiving tracheostomy in
+infancy.
+Journal of Communication Disorders.
+1983; 15:95–111.
+[PubMed: 7096617]
+Rutter, M.; Le Couteur, A.; Lord, C. Autism Diagnostic Interview-Revised.
+Los Angeles, CA: Western
+Psychological Services; 2003.
+Schopler, E.; Reichler, RJ.
+; Rochen Renner, B.
+The Childhood Autism Rating Scale.
+Lost Angeles,
+CA: Western Psychological Services; 1992.
+Sheinkopf SJ, Mundy P, Oller DK, Steffens M. Vocal atypicalities of preverbal autistic children.
+Journal of Autism and Developmental Disorders.
+2000; 30:345–353.
+[PubMed: 11039860]
+Simon BM, Fowler SM, Handler SD.
+Communication development in young children with long-term
+tracheostomies: Preliminary report.
+International Journal of Otorhinolaryngology.
+1983; 6:37–50.
+Snow, CE.
+Issues in the study of input: fine-tuning universality, individual and devlopmental
+differences and necessary causes.
+In: MacWhinney, B.; Fletcher, P., editors.
+NETwerken:
+Bijdragen van het vijfde NET symposium: Antwerp Papers in Linguistics.
+Vol.
+74.
+Antwerp:
+University of Antwerp; 1995. p. 5-17.
+Sparrow, SS.
+; Balla, DA.
+; Cicchetti, DV.
+Vineland Adaptive Behavior Scales.
+Circle Pines, MN:
+American Guidance Service; 1984.
+Stark, RE.
+Stages of speech development in the first year of life.
+In: Yeni-Komshian, G.; Kavanagh, J.;
+Ferguson, C., editors.
+Child Phonology.
+Vol.
+1.
+New York: Academic Press; 1980. p. 73-90.
+Stark, RE.
+; Ansel, BM.
+; Bond, J.
+Are prelinguistic abilities predictive of learning disability?
+A follow-
+up study.
+In: Masland, RL.
+; Masland, M., editors.
+Preschool Prevention of Reading Failure.
+Parkton, MD: York Press; 1988.
+Stoel-Gammon C. Prespeech and early speech development of two late talkers.
+First Language.
+1989;
+9:207–224.
+Stoel-Gammon C, Otomo K. Babbling development of hearing impaired and normally hearing
+subjects.
+Journal of Speech and Hearing Disorders.
+1986; 51:33–41.
+[PubMed: 3945058]
+Stoel-Gammon C. Relationships between lexical and phonological development in young children.
+Journal of Child Language.
+2011; 38(1):1–34.
+[PubMed: 20950495]
+Teitelbaum P, Teitelbaum O, Nye J, Fryman J, Maurer RG.
+Movement analysis in infancy may be
+useful for early diagnosis of autism.
+Proceedings of the National Academy of Sciences of the
+United States of America.
+1998; 95(23):13982–13987.
+[PubMed: 9811912]
+Tronick, EZ.
+Social interchange in infancy.
+Baltimore: University Park Press; 1982.
+Van den Dikkenberg-Pot I, Koopmans-van Beinum F, Clement C. Influence of lack of auditory speech
+perception of sound productions of deaf infants.
+Proceedings of the Institute of Phonetic Sciences,
+University of Amsterdam.
+1998; 22:47–60.
+Vihman, MM.
+Phonological Development: The Origins of Language in the Child.
+Cambridge, MA:
+Blackwell Publishers; 1996.
+Volkmar FR, Chawarska K. Autism in infants: An update.
+World Psychiatry: Official Journal of the
+World Psychiatric Association.
+2008; 7(1):19–21.
+Watson LR, Patten E, Baranek GT, Boyd BA, Freuler A, Lorenzi J.
+Differential associations between
+sensory response patterns and language, social, and communication measures in children with
+autism or other developmental disabilities.
+Journal of Speech, Language, and Hearing Research.
+2011; 54(6):1562–1576.
+Patten et al.
+Page 22
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Watson LR, Crais ER, Baranek GT, Dykstra JR, Wilson KP.
+Communicative Gesture Use in Infants
+with and without Autism: A Retrospective Home Video Study.
+American Journal of Speech-
+Language Pathology.
+2013; 22:25–39.
+[PubMed: 22846878]
+Warlaumont, AS.
+; Oller, DK.
+; Dale, R.; Richards, JA.
+; Gilkerson, J.; Xu, D. Vocal Interaction
+Dynamics of Children With and Without Autism.
+Paper presented at the Proceedings of the 32nd
+Annual Conference of the Cognitive Science Society; Austin, TX.
+2010.
+Warren SF, Gilkerson J, Richards JA, Oller DK.
+What Automated Vocal Analysis Reveals About the
+Language Learning Environment of Young Children with Autism.
+Journal of Autism and
+Developmental Disorders.
+2010; 40:555–569.
+[PubMed: 19936907]
+Weismer SE, Lord C, Esler A.
+Early language patterns of toddlers on the autism spectrum compared to
+toddlers with developmental delay.
+Journal of Autism and Developmental Disorders.
+2010;
+40(10):1259–1273.
+[PubMed: 20195735]
+Werner E, Dawson G, Osterling J, Dinno N. Brief report: Recognition of autism spectrum disorder
+before one year of age: A retrospective study based on home videotapes.
+Journal of Autism and
+Developmental Disorders.
+2000; 30:157–162.
+[PubMed: 10832780]
+Wetherby AM, Woods J, Allen L, Cleary J, Dickinson H, Lord C. Early indicators of ASD spectrum
+disorders in the second year of life.
+Journal of ASD and Developmental Disorders.
+2004; 34:473–
+493.
+Yale ME, Messinger DS, Cobo-Lewis AB, Oller DK, Eilers RE.
+An event-based analysis of the
+coordination of early infant vocalizations and facial actions.
+Developmental Psychology.
+1999;
+35(2):505–513.
+[PubMed: 10082021]
+Zwaigenbaum L, Bryson S, Rogers T, Roberts W, Brian J, Szatmari P. Behavioral manifestations of
+autism in the first year of life.
+International Journal of Developmental Neuroscience.
+2005; 23(2–
+3):143–152.
+[PubMed: 15749241]
+Patten et al.
+Page 23
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Figure 1.
+Canonical babbling ratios by participant at 9–12 months
+Patten et al.
+Page 24
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Figure 2.
+Canonical babbling ratios by participant at 15–18 months
+Patten et al.
+Page 25
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Figure 3.
+Syllable volubility by participant at 9–12 months.
+Patten et al.
+Page 26
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Figure 4.
+Syllable volubility by participant at 15–18 months.
+Patten et al.
+Page 27
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Figure 5.
+Canonical babbling ratios by age and diagnosis
+Patten et al.
+Page 28
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Figure 6.
+Volubility by age and diagnosis
+Patten et al.
+Page 29
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Patten et al.
+Page 30
+Table 1
+Participant Demographics
+ASD; n=23
+TD; n=14
+Age at 9–12months; mean (SD)
+10.89 (1.39)
+10.63 (.53)
+Age at 15–18 months; mean (SD)
+16.33 (.83)
+16.28 (.70)
+Sex
+19 males, 4 females
+11 males, 3 females
+Race
+23 White, 1 Black
+13 White, 1 Asian
+Maternal education 1
+5.48
+5.82
+Childhood Autism Rating Scale; mean (SD)
+34.17 (1.52)
+16.15 (.39)3
+1Maternal education: 1=6th grade or lower; 2=7th to 9th grade; 3=partial high school; 4=high school graduate/GED; 5=associate of arts/associate
+of science or technical training or partial college training; 6=bachelor of arts/science; 7=master of arts/science or doctorate or other professional
+degree completed
+2missing information for two participants
+3missing information for four participants
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Patten et al.
+Page 31
+Table 2
+Content Variables for Videos, 9–12 months
+ASD; mean (SD)
+TD; mean (SD)
+Number of people present
+3.22 (1.53)
+3.28 (1.24)
+Amount of physical restrictiona
+1.58 (.35)
+1.51 (.32)
+Amount of social intrusiona
+2.02 (.38)
+2.04 (.32)
+Total number of different event types
+5.32 (1.05)
+5.07 (1.02)
+aRated by coders on a 1 to 3 scale
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Patten et al.
+Page 32
+Table 3
+Content Variables for Videos, 15–18 months
+ASD; mean (SD)
+TD; mean (SD)
+Number of people present
+2.84 (1.20)
+2.82 (1.24)
+Amount of physical restrictiona
+1.37 (.29)
+1.28 (.33)
+Amount of social intrusion a
+2.06 (.40)
+1.95 (.34)
+Total number of different event types
+5.34 (1.17)
+5.23 (1.11)
+aRated by coders on a 1 to 3 scale
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Patten et al.
+Page 33
+Table 4
+Percentage of each activity type, 9–12 month videos
+ASD; n=23
+TD; n=14
+Mealtime
+10%
+11%
+Active
+53.9%
+60.6%
+Bathtime
+4.5%
+5.5%
+Other
+2.5%
+4.1%
+special activity
+20.3%
+16.5%
+passive activity
+8.7%
+3.4%
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Patten et al.
+Page 34
+Table 5
+Percentage of each activity type, 15–18 month videos
+ASD; n=23
+TD; n=14
+Mealtime
+7.5%
+2.6%
+Active
+64%
+72.8%
+Bathtime
+2.5%
+1.8%
+Other
+8.3%
+11.4%
+Special activity
+12.9%
+4.4%
+Passive activity
+4.6%
+16.6%
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Patten et al.
+Page 35
+Table 6
+Intercorrelations Between Canonical Babbling Ratios and Volubility
+1
+2
+3
+4
+1.
+Canonical Babbling 9–12 mos
+__
+.352*
+.528**
+.354*
+2.
+Volubility 9–12 mos
+__
+0.21
+0.14
+3.
+Canonical Babbling 15–18 mos
+__
+.510**
+4.
+Volubility 15–18 mos
+__
+*p < .05,
+**p < .01
+J Autism Dev Disord.
+Author manuscript; available in PMC 2014 October 01.
