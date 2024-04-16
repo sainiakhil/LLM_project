@@ -9,8 +9,8 @@ This assignment aims to develop a Retrieval Augmented Generation (RAG) system us
 
 Certainly! Let's go through the process of creating a RAG (Retrieval-Augmented Generation) model using Hugging Face and integrating it with an LLM model like "mistralai/Mistral-7B-Instruct-v0.2" using LangChain. We'll also discuss the role of LangChain in the code for application process integration.
 
-# First, let's install the necessary libraries:
-
+## First, let's install the necessary libraries:
+'''
 !pip install -q langchain
 !pip install sentence-transformers
 !pip install -q torch
@@ -28,6 +28,7 @@ from langchain.chains import RetrievalQA
 from transformers import BitsAndBytesConfig
 from langchain import PromptTemplate, LLMChain
 from transformers import AutoModelForCausalLM, AutoTokenizer, pipeline
+'''
 
 
 # Creating splites
